@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development, swift, blockchain applications
 - 🌱 I’m currently learning swift, golang, smart contracts
 - 💞️ I’m looking to collaborate on thenewboston
-- 📫 How to reach me https://twitter.com/wakawakathedev or [wakawaka#9513] on thenewboston discord
+- 📫 How to reach me https://twitter.com/wakawakathedev or `wakawaka#9513` on thenewboston discord
