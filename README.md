@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning swift, golang, smart contracts
 - 💞️ I’m looking to collaborate on thenewboston
 - 📫 How to reach me https://twitter.com/wakawakathedev or `wakawaka#9513` on thenewboston discord
+- `2ecd5ebdfff0ace53bb0f171645f912593b2c9eda722548831a4b32221245525`
