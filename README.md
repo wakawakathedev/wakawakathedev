@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wakawakathedev
-- 👀 I’m interested in web development, swift, blockchain applications
-- 🌱 I’m currently learning swift, golang, smart contracts
-- 💞️ I’m looking to collaborate on thenewboston
-- 📫 How to reach me https://twitter.com/wakawakathedev or `wakawaka#9513` on thenewboston discord
-- `baa336bca22c7590256a86c002e4dbe6c1f1c1f6c0a0fd3f0681eecb2cad0787`
+- 👀 Interested in web development & blockchain applications
+- 🌱 Currently learning solana and generative art.
+- 💞️ Collaborating on thenewboston
+- 📫 Reach me https://twitter.com/wakawakathedev or `wakawaka#9513` on thenewboston discord
+- 💸 tnbc wallet address - `baa336bca22c7590256a86c002e4dbe6c1f1c1f6c0a0fd3f0681eecb2cad0787`
