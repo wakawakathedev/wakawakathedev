@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @wakawakathedev
-- 👀 Interested in web development & blockchain applications
-- 🌱 Currently learning solana and generative art.
-- 📫 Reach me https://twitter.com/wakawakathedev or `wakawaka#9513` on thenewboston discord
+- 👀 taking a break - working on personal projects
+- 📫 Reach me https://twitter.com/wakawakathedev or `wakawaka#9513` on discord
